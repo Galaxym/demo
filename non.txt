@@ -1,2 +1,6 @@
 coucou
+<<<<<<< Updated upstream
  oui
+=======
+non
+>>>>>>> Stashed changes
